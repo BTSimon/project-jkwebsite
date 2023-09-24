@@ -20,8 +20,24 @@
     text-align: center;
 }
 
-body {
+
+button.product-button {
+    padding: 0;
+    border:color(from color srgb 255 255 255);
+    background: none;
+    
+}
+
+img.product-photo {
+    width: 250px;
+    height: 250px;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
     padding-left: 300px;
     padding-right: 300px;
-
 }
