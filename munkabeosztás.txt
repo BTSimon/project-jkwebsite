@@ -1,0 +1,16 @@
+Bacsik:
+
+- tesztvideó feltöltése, a video rész működővéctétele
+- navbar színek alignolása, pl: zöld nem jó szín sztem. 
+- navbar font: Coaster font hozzáadása
+- general esztitikai elemek hozzáadása/ javítása
+- esetleg: még nem biztos, de az érem hozzáadása. Szerintem nem néz ki professzionálisan, de ezt még el kell dönteni
+
+Simon:
+
+- Domain megszerzése
+- Webhosting setuppolása, üzemeltetése - ez lehet hogy itthoni szerverről fog futni??
+- Az oldal telefonos verziójának létrehozása
+- Nagyon minimális backend
+- JS funkcionalitás
+- Product elemek interaktívabbá tétele
