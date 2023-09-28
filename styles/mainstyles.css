@@ -74,6 +74,11 @@ img.product-photo {
   height: 300px;
 }
 
+img.product-photo:hover {
+    opacity: 80%;
+  }
+  
+
 img.video-test {
   width: 865px;
   height: 300px;
